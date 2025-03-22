@@ -25,7 +25,7 @@ dist-ssr
 *.sw?
 
 # .env file to avoid tracking sensitive information
-.env
+/server/.env
 /client/.env
 
 /server/node_modules/
